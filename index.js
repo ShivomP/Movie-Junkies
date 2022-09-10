@@ -1,1 +1,0 @@
-console.log(fetch("https://www.omdbapi.com/?s=thor&page=1&apikey=941b76b8&"))
